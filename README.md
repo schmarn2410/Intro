@@ -5,11 +5,11 @@
 
 - 🚀 Final Capstone Project [Hydrophil - A product portfolio analysis](https://drive.google.com/file/d/10l6zBDBbazUISk0-gpTPwFsP16HPdFlJ/view?usp=share_link)
 
-- 🌱 I’m currently learning and working **Google Analytics and a SQL project (COVID project)**
-
 - 🚀 SQL//API project [Hurricane Ida](https://drive.google.com/file/d/15gICbZfKflv0bybDXIv3F9I12JhV7lPx/view?usp=share_link)
 
 - 🚀 Python//EDA project [Youtube EDA](https://github.com/schmarn2410/da-youtube_EDA/blob/f12847c846628aa3d2090e9fd1bc0bed8ba275ab/ytEDA_nina.ipynb)
+
+- 🌱 I’m currently learning and working **Google Analytics and a SQL project (COVID project)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/schmarn2410/My-Bootcamp-Projects](https://github.com/schmarn2410/My-Bootcamp-Projects)
 
