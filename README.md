@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Nina </h1>
-<h3 align="center">I am starting my lateral entry into Data Analytics. Here I will upload not only my bootcamp projects but now and then different projects I am working on in my freetime. If you've got any question, please let me know. Thanks for visiting this site.</h3>
+<h3 align="center">I'm starting my career in Data Analytics. Here I will upload not only my bootcamp projects but now and then different projects I am working on in my freetime. If you've got any question, please let me know. Thanks for visiting this site.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=schmarn2410&label=Profile%20views&color=0e75b6&style=flat" alt="schmarn2410" /> </p>
 My bootcamp projects:
