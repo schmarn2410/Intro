@@ -14,7 +14,7 @@ My bootcamp projects:
 
 - 🌱 I’m currently learning and working on **Google Analytics and a SQL project (COVID project)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/schmarn2410/My-Bootcamp-Projects](https://github.com/schmarn2410/My-Bootcamp-Projects)
+- 👨‍💻 All of my projects are available at [Overview of all projects](https://github.com/schmarn2410/My-Bootcamp-Projects)
 
 - 📫 How to reach me **schmarn2410@gmail.com**
 
