@@ -9,8 +9,11 @@ My bootcamp projects:
 - 🚀 SQL//API project [Hurricane Ida](https://drive.google.com/file/d/15gICbZfKflv0bybDXIv3F9I12JhV7lPx/view?usp=share_link)
 
 - 🚀 Python//EDA project [Youtube EDA](https://github.com/schmarn2410/da-youtube_EDA/blob/f12847c846628aa3d2090e9fd1bc0bed8ba275ab/ytEDA_nina.ipynb)
+- 🚀 Python//EDA project [Youtube EDA] youtube_EDA.ipynb
 
 - 🚀 Python//EDA project [Muesli Distribution](https://drive.google.com/file/d/1ZahbRB34Khmd0XXgmqXRGIBXKOcjnEkB/view?usp=share_link)
+
+
 
 - 🌱 I’m currently learning and working on **Google Analytics and a SQL project (COVID project)**
 
